@@ -12,5 +12,7 @@ hello git!!! master test
 hello git!!! hot-mix test
 -------------
 hello i'm KimbleLIU
-i change some code of this text in github.com
+i change some code of this text in gitHub.com
 try it!!!
+------------
+hot-fix-1!!
