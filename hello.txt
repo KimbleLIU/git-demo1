@@ -1,5 +1,6 @@
 hello git!!! LYB	
 hello git!!! LYB来了！！
+hello git!!! LYB（热修更新）
 hello git!!! 
 hello git!!! 
 hello git!!! 
@@ -7,5 +8,5 @@ hello git!!!
 hello git!!! 
 hello git!!! 
 hello git!!! 
-hello git!!! master test
-hello git!!! 
+hello git!!! master test 
+hello git!!! hot-mix test
