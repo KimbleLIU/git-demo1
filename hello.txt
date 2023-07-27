@@ -16,3 +16,5 @@ i change some code of this text in gitHub.com
 try it!!!
 ------------
 hot-fix-1!!
+------------
+conflict test master-1
