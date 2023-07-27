@@ -18,3 +18,5 @@ try it!!!
 hot-fix-1!!
 ------------
 conflict test master-1
+------------
+conflict hot-fix-1-1
