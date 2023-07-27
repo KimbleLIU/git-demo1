@@ -10,3 +10,7 @@ hello git!!!
 hello git!!! 
 hello git!!! master test 
 hello git!!! hot-mix test
+-------------
+hello i'm KimbleLIU
+i change some code of this text in github.com
+try it!!!
